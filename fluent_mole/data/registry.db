@@ -1,0 +1,19 @@
+
+P
+0
+	driver_id	driver id"	driver_idJfluent_mole
+îîª‘ØåÕîîª‘ØåÕ
+D
+$
+__dummy"
+__dummy_idJfluent_mole
+îîª‘¨ãÛîîª‘¨ãÛ1"$d03abe53-061c-4518-a74d-1b0645ff02ee*îîª‘à¾ï2Ò
+±
+driver_hourly_statsfluent_mole	driver_id"
+	conv_rate"
+acc_rate"
+avg_daily_trips2€£:Çevent_timestamp*createdZ:8/home/ubuntu/feast/fluent_mole/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢8/home/ubuntu/feast/fluent_mole/data/driver_stats.parquet@
+îîª‘ğ¿ßîîª‘ğ¿ßR‰
+†
+,feast.infra.online_stores.sqlite.SqliteTable"V
+3/home/ubuntu/feast/fluent_mole/data/online_store.dbfluent_mole_driver_hourly_statsb¡event_timestamp*createdZ:8/home/ubuntu/feast/fluent_mole/data/driver_stats.parquet¢8/home/ubuntu/feast/fluent_mole/data/driver_stats.parquetªfluent_mole
